@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/linear.gif" alt="banner" width="900"/>
+</p>
+
+Developing AI trading platform __without using agents__ - __[TradiQuant](https://kowallskiy.github.io/index.html)__
+
+```
+For AI to triumph it only takes good men to do nothing
+```
 
 <!--
 **Kowallskiy/Kowallskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
